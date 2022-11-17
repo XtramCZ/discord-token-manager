@@ -1,0 +1,8 @@
+re
+remoteauthclient
+colorama
+asyncio
+os
+json
+requests
+py-cord

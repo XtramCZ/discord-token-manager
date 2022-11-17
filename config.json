@@ -1,0 +1,7 @@
+{
+    "botToken": "",
+    "capmonster_api_key": "",
+    "guild_id": "",
+    "auto_token_check": "True",
+    "check_phone_and_mfa": "True"
+}
